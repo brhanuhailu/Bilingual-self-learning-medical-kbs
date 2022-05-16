@@ -1,6 +1,0 @@
-============================================================
-THIS IS COMMENT SECTION FOR DESCRIPTION OF THE PROJECT
-==========================================================
-Hello every one this project is done in prolog which is 
-simple programming language but solve many proloblem easly
-for sure this is cool.
